@@ -7,6 +7,10 @@ qipai_game
 # 需要的联系飞机账号  @tt88pay  请备注是github看到的 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
 
 
+# apk 下载地址
+
+https://github.com/debug8888/qipai_game/raw/main/jamblinghall.apk
+
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=28889fa6dec11961b3d20fabc69e06c8)
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=c39506fe5728d61781a96eb5eee2361e)
 
