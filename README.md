@@ -2,7 +2,7 @@
 qipai_game
 # 棋牌游戏
 
-# 开发语言 
+# 开发语言  cocos 
 
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=28889fa6dec11961b3d20fabc69e06c8)
 ![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=c39506fe5728d61781a96eb5eee2361e)
