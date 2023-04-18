@@ -9,21 +9,22 @@ qipai_game
 
 # apk 下载地址
 
-https://github.com/debug8888/qipai_game/raw/main/jamblinghall.apk
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=28889fa6dec11961b3d20fabc69e06c8)
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=c39506fe5728d61781a96eb5eee2361e)
+![](img/1.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=af4a4d5df69bcbfd3187394b49ebeeb7)
+![](img/2.png)
+
+![](img/3.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=eb4582a2a7ff8a2371047a5e3851a441)
+![](img/4.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=b4269fcff755e8a6d6c40c1ebb221620)
+![](img/5.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=ceb8084f993ac1b189266af89012b417)
+
+![](img/6.png)
 
 
 # 目前有 android 和 IOS端
